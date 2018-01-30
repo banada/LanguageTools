@@ -8,3 +8,6 @@ Uses Google Translate to play an audio clip of a random number. Type the number 
 
 To change languages, replace 'ko' with another language code, e.g. 'zh' for Mandarin Chinese.
 
+Credit ryanbrainard on Reddit with the MacOS version:
+
+https://www.reddit.com/r/languagelearning/comments/7supzb/number_listening_practice_in_your_terminal/
