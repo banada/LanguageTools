@@ -1,3 +1,5 @@
+#!/bin/bash
+
 NUMBER=$(( $RANDOM ));
 # For a limited range of numbers:
 # NUMBER=$(( $RANDOM%10 ));
